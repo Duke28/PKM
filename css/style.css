@@ -247,7 +247,7 @@ navigation section
         padding-top: 10px;
     }
 .custom-navbar .navbar-toggle .icon-bar {
-        background: #00c6d7;
+        background: #154753;
         border-color: transparent;
     }
 @media(min-width:768px){
@@ -445,7 +445,7 @@ team section
 }
 
 #team .social-icon li a:hover {
-  color: #00c6d7;
+  color: #154753;
 }
 
 /* ==========================================================================
