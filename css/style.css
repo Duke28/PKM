@@ -341,7 +341,7 @@ work section
 about section
 ========================================================================== */
 #about {
-  background: #3B3B3B;
+  background: #A9A9A9;
   color: #ffffff;
 }
 .nav-tabs {
@@ -366,7 +366,7 @@ about section
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
-  color: #00c6d7;
+  color: #154753;
   cursor: default;
   background-color: transparent;
   border: 1px solid transparent;
@@ -392,7 +392,7 @@ team section
   text-align: center;
 }
 #team h3 {
-  color: #00c6d7;
+  color: #154753;
   font-size: 14px;
   font-weight: bold;
 }
@@ -639,8 +639,8 @@ contact section
   height: 40px;
 }
 #contact input[type="submit"] {
-  background: #00c6d7;
-  border: 3px solid #00c6d7;
+  background: #154753;
+  border: 3px solid #154753;
   letter-spacing: 1px;
   margin-top: 18px;
   height: 50px;
