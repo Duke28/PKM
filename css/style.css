@@ -240,7 +240,7 @@ navigation section
   outline: none;
 }
 .custom-navbar .nav li.active > a {
-      color: #00c6d7;
+      color: #154753;
     }
 .custom-navbar .navbar-toggle {
         border: none;
@@ -259,7 +259,7 @@ navigation section
          }
     .custom-navbar.top-nav-collapse {
             padding: 8px;
-            background: #4B4B4B;
+            background: #D3D3D3;
         }
 }
 
@@ -303,11 +303,11 @@ home section
   transition: all 0.4s ease-in-out;
 }
 #home .btn:hover {
-  background: #00c6d7;
+  background: #154753;
   border-color: transparent;
 }
 #home .btn-danger {
-  background: #00c6d7;
+  background: #154753;
   border-color: transparent;
 }
 #home .btn-danger:hover {
